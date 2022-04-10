@@ -1,6 +1,5 @@
 # EvolutionaryGames
 
-A project designed for Computational Intelligence course. <br> <br>
 In this project, a simple 2D minigame is implemented. <br>
 The agent needs to learn to maneuver via neural network + evolution.
 
@@ -15,3 +14,4 @@ Helicopter             |  Gravity          |  Thrust
 - [Matin Tavakoli](https://github.com/MatinTavakoli/) <br>
 - Many thanks to [Parnian Rad](https://github.com/Parnian-Rad)
 
+In the project, I trained an ANN by evolutionary algorithm so it can play the game without making any mistake.
